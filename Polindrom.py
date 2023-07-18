@@ -6,4 +6,3 @@ def IfPolindrom(word):
             a = False
         counter += 2
     return a
-
